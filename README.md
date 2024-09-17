@@ -2,7 +2,7 @@
 
 **A Front-End Developer by day ☀️ and a Full-Stack Developer by night 🌙**
 
-Front-End Developer at [Playmoove](https://playmoove.com "Turn your smart mobility idea into a successfull business");
+Front-End Developer at [Playmoove](https://playmoove.com "Turn your smart mobility idea into a successfull business")
 
 - ⚙️ I use daily: `.vue` ![vscode-icons--file-type-vue](https://github.com/user-attachments/assets/a5f6ab32-09db-4842-865f-3a4331d91841)
 , `.html` ![vscode-icons--file-type-html](https://github.com/user-attachments/assets/4565917c-d634-4740-9f93-1e0ae81f0223)
