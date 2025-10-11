@@ -13,7 +13,7 @@ Front-End Developer at [Playmoove](https://playmoove.com "Turn your smart mobili
 , `.psd` ![vscode-icons--file-type-photoshop](https://github.com/user-attachments/assets/ec0c1288-51a9-463a-bd54-2e0a980147fd)
 , `.ai` ![vscode-icons--file-type-ai](https://github.com/user-attachments/assets/bf3eeeb8-454e-4156-8f5b-fb369c5c241f)
 - 🌍 I'm mostly active within the **Vue Community** and **PHP Community**
-- 🖌️ Designed: [Playmoove](https://playmoove.com "Turn your smart mobility idea into a succesfull business"), [MIA Pokeria](https://miapokeria.it), [La bottega del mare](https://www.labottegadelmareuta.it), etc.
+- 🖌️ Designed: [Playmoove](https://playmoove.com "Turn your smart mobility idea into a succesfull business"), [Domicilioo](https://business.domicilioo.it), etc.
 - 🧠 Constantly **working** and thinking about **new business ideas** and **technological improvements**
 - 🗨️ `ping` me about **design**, **branding**, **development**, **business ideas**
 
